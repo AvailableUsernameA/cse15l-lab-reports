@@ -15,8 +15,16 @@ __Another One__<br>
 - List1
 - List2
 - List3
+<<<<<<< HEAD
 ***
 1. One
 2. Two
 1) One
 2) Two
+=======
+1. One
+2. Two
+1) One
+2) Two
+
+>>>>>>> 8e3b761bb456a2a225bbe1d1d3f93eac55e736a6
