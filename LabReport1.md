@@ -18,7 +18,7 @@ I failed to log in to my own account, so I use another one. I successfully conne
 I used the pwd command to check the current directory in the remote computer and the ls command to see all the files exist. Then I used the cd command to get the home directory and see what files each directory contains. I also tried these commands on my own computer and found that the command ran in the remote computer shows the files in the remote computer while the command ran in my computer shows the files in my computer.
 ***
 **Moving Files With SCP**
-![image](movingFileWIthSCP.png)
+![image](movingFileWithSCP.png)
 When I tried to  move WhereAmI.java to the remote computer, there was not a row under “Password:” showing the file’s information. But when I connect to the remote computer by ssh, I find that WhereAmI.java exists in the remote computer. I am not sure if this is correct.
 ***
 **Setting an SHH key**
